@@ -1,0 +1,99 @@
+{
+  "pays": "France",
+  "drapeau": "🇫🇷",
+  "symbole": "🏖️",
+  "titre": "Escapade Relaxante d'une Journée à Royan",
+  "budget_total": "Environ 115-185 €/personne",
+  "duree": "1 jour",
+  "temps_vol": "4h30 (en voiture depuis Orléans, France)",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🚗",
+      "titre": "Voyage et Douceur Océane à Royan",
+      "legende": "Après un trajet matinal depuis Orléans, plongez dans l'ambiance apaisante de Royan. Profitez d'une balade sur la plage, respirez l'air marin et laissez-vous charmer par l'architecture Belle Époque. Une journée pour se ressourcer au bord de l'Atlantique, avant de reprendre la route en soirée.",
+      "lieu": "Royan",
+      "activites": [
+        "<strong>🚗</strong>: Départ matinal d'Orléans pour Royan: Un trajet d'environ 4h30 vous mènera vers la côte atlantique, prévoyez des pauses régulières.",
+        "<strong>🏖️</strong>: Balade relaxante sur la Plage de la Grande Conche: Profitez du sable fin et de l'air marin pour une promenade vivifiante le long de la plage emblématique de Royan, idéale pour se détendre.",
+        "<strong>🚶‍♀️</strong>: Découverte de l'architecture Belle Époque et du Front de Mer: Flânez le long du front de mer, admirez les villas des années 50 et l'ambiance unique de la ville, puis savourez un déjeuner léger.",
+        "<strong>🍦</strong>: Pause gourmande et vue sur le port: Dégustez une glace artisanale ou une crêpe en observant l'animation du port de plaisance, avant de reprendre la route pour Orléans en fin de journée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Plage de la Grande Conche, Royan",
+          "categorie": "Plage",
+          "coords": { "lat": 45.6170, "lng": -1.0280 }
+        },
+        {
+          "nom_recherche": "Front de Mer, Royan",
+          "categorie": "Promenade",
+          "coords": { "lat": 45.6250, "lng": -1.0250 }
+        },
+        {
+          "nom_recherche": "Port de Royan",
+          "categorie": "Port",
+          "coords": { "lat": 45.6260, "lng": -1.0200 }
+        }
+      ],
+      "illustration": "royan_plage.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Attention au temps de trajet",
+          "texte": "Pour une journée, le trajet Orléans-Royan (environ 4h30 aller simple) est conséquent. Prévoyez un départ très matinal et un retour tardif pour profiter pleinement de votre temps sur place."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 66 €/pers (vol Paris-Bordeaux, non inclus dans cet itinéraire voiture)", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 70-140 € (carburant et péages pour le véhicule, à diviser par le nombre de passagers)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 30-40 €/pers (un déjeuner et un dîner léger)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "0 €/pers (pas de nuitée prévue pour cette escapade d'une journée)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 5-10 €/pers (petits plaisirs, glaces, etc.)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [{ "titre": "Mois de mai à septembre", "symbole": "☀️" }],
+  "infos_pratiques": [
+    { "titre": "En été, les températures à Royan sont douces (20-25°C). Prévoir des vêtements légers et un coupe-vent pour le soir.", "symbole": "☀️" },
+    { "titre": "La voiture est le moyen le plus pratique pour se déplacer dans la région et depuis Orléans.", "symbole": "🚗" },
+    { "titre": "Les cartes bancaires sont largement acceptées. Quelques espèces peuvent être utiles pour les petits commerces ou marchés locaux.", "symbole": "💳" },
+    { "titre": "Le réseau mobile est excellent dans la région, vous permettant de rester connecté sans souci.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Royan a été presque entièrement détruite pendant la Seconde Guerre mondiale et reconstruite dans un style moderniste des années 50, lui conférant une architecture unique et audacieuse, très différente des villes côtières traditionnelles."
+    },
+    {
+      "symbole": "🏰",
+      "titre": "Un phare royal",
+      "texte": "Le Phare de Cordouan, surnommé le \"Versailles de la mer\", est le plus ancien phare de France encore en activité et le seul phare en mer au monde ouvert au public. On peut l'apercevoir majestueusement depuis la côte royannaise."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "Huîtres de Marennes-Oléron",
+      "description": "Savourez ces huîtres réputées, affinées dans les claires de la région voisine, pour une explosion de saveurs iodées et une fraîcheur incomparable."
+    },
+    {
+      "symbole": "🍰",
+      "titre": "Galette Charentaise",
+      "description": "Une délicieuse galette sablée parfumée à l'angélique ou à l'eau de vie, parfaite pour une pause gourmande ou à rapporter en souvenir."
+    },
+    {
+      "symbole": "🍷",
+      "titre": "Pineau des Charentes",
+      "description": "Cet apéritif local, mélange subtil de jus de raisin et de cognac, est un incontournable à déguster frais pour accompagner vos repas ou en fin de journée."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols (Paris-Bordeaux)", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/ORY-BOD/2026-11-10/2026-11-11", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Royan Atlantique", "url": "https://www.royanatlantique.fr/", "symbole": "📘" },
+    { "legende": "Météo locale", "titre": "Météo France Royan", "url": "https://www.meteofrance.com/previsions-meteo-france/royan/17200", "symbole": "🌤️" },
+    { "legende": "Trafic routier", "titre": "ViaMichelin", "url": "https://www.viamichelin.fr/", "symbole": "🚗" }
+  ]
+}
